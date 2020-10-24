@@ -42,7 +42,6 @@
     # Intalar as dependências
     $ yarn install
 
-
     # Iniciar o projeto
     $ yarn start
   ```
