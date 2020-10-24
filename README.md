@@ -14,7 +14,7 @@
 
 ### 📜 Sobre
 
-  **Linkedin Clone Front-End** este projeto clona a interface do Linkedin, além dos componentes o intuito era estudar o load de componentes bem moderno.
+  **Linkedin Clone Front-End** este projeto clona a interface do Linkedin, além da interdace o intuito era estudar o load de componentes bem moderno.
 
   Feito a partir do video [LinkedIn e Shimmer Effect no ReactJS | UI Clone](https://www.youtube.com/watch?v=-ZV-_7vNRGw&t=1982s)
 
